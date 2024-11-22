@@ -1,0 +1,16 @@
+{
+	"files.associations": {
+		"client2.h": "c",
+		"server2.h": "c",
+		"stat.h": "c",
+		"serveurreworked.h": "c",
+		"types.h": "c",
+		"errno.h": "c",
+		"stdio.h": "c",
+		"stdlib.h": "c",
+		"awaletest.h": "c",
+		"game.h": "c",
+		"server.h": "c",
+		"client.h": "c"
+	}
+}
